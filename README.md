@@ -38,6 +38,9 @@ README For my Website (DevNest Academy)
         Wrote code for the the styling of the index.html
         Tested the code
 
+    [Done] - 2025-09-22
+        Reviwed Part 1 feedback and planned Part 2
+
 References:
     Logos
         - Instagram (https://commons.wikimedia.org/wiki/File:Instagram_icon.png)
