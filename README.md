@@ -16,7 +16,7 @@ README For my Website (DevNest Academy)
         Fixed the responsive design for the mobile devices and tablets
         Tested the code
 
-    [Done] - 2025-09-25
+    [Done] - 2025-09-24
         Modified/Styled the navigation bar   
         Tested the code
         Used psuedo classes for the buttons throughout the program
