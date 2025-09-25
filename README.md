@@ -15,6 +15,7 @@ README For my Website (DevNest Academy)
     [Done] - 2025-09-25
         Fixed the responsive design for the mobile devices and tablets
         Tested the code
+        Updated README.md
 
     [Done] - 2025-09-24
         Modified/Styled the navigation bar   
