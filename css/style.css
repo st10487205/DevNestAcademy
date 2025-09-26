@@ -11,6 +11,7 @@ nav {
   display: flex;
   justify-content: center;
   gap: 2rem;
+  background-color: black;
 }
 
 nav a {
