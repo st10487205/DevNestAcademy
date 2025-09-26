@@ -11,7 +11,7 @@ nav {
   display: flex;
   justify-content: center;
   gap: 2rem;
-  background-color: black;
+  background-color: rgb(39, 38, 38);
 }
 
 nav a {
