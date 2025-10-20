@@ -429,8 +429,7 @@ p {
     font-size: 3rem;
   }
 
-  .info-card,
-  .query-card {
+  .info-card, .query-card {
     max-width: 450px;
   }
 }
