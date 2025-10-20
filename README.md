@@ -12,6 +12,9 @@ README For my Website (DevNest Academy)
     [Unreleased] (Work in progress)
     Part 3 which is JacaScript
 
+    [Done] - 2025-10-20
+        Created the JavaScript folder
+
     [Done] - 2025-09-25
         Fixed the responsive design for the mobile devices and tablets
         Tested the code
