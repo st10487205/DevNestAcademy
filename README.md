@@ -10,7 +10,7 @@ README For my Website (DevNest Academy)
 
  Changelog:
     [Unreleased] (Work in progress)
-    Part 3 which is JacaScript
+    Part 3 which is JavaScript
 
     [Done] - 2025-10-20
         Created the JavaScript folder
