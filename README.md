@@ -9,8 +9,10 @@ README For my Website (DevNest Academy)
              - Desktops or laptops are default (greater or equal to 1024px)
 
  Changelog:
-    [Unreleased] (Work in progress)
-    Part 3 which is JavaScript
+    [Done] - 2025-10-22
+        Fixed Part 2 errors
+        Created/Added Gallery page
+        Styled and added a few pictures on the gallery page
 
     [Done] - 2025-10-20
         Created the JavaScript folder
@@ -57,6 +59,9 @@ References:
 
     Fonts
         -Header Font (https://fonts.googleapis.com/css2?family=Allura&display=swap)
+
+    Photos
+        - Graduate Pictures (https://www.istockphoto.com/photos/we-are-finally-graduates)
 
 Responsive Design
     - Mobile Devices 
