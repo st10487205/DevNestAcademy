@@ -145,6 +145,7 @@ p{
 .profile-card .left img {
   width: 250px;
   border-radius: 10px;
+  height: auto;
   object-fit: cover;
 }
 
@@ -168,7 +169,8 @@ p{
 }
 .contact-info img {
   width: 50px;
-
+  height: auto;
+  object-fit: cover;
 }
 
 .info-card {
@@ -412,14 +414,13 @@ p {
     text-align: left;
   }
 
-  .profile-card .left img {
-    max-width: 250px;
-  }
+
 
   .block {
     flex: 1 1 45%;
     max-width: 45%;
   }
+
 
 }
 
@@ -463,5 +464,9 @@ p {
 
   .info-card, .query-card {
     max-width: 450px;
+  }
+
+  img{
+
   }
 }
