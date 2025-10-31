@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DevNest Academy | Home</title>
 </head>
- <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js"></script>
 
     <!--Links for icons-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -17,8 +18,7 @@
     <h3 style="font-family: monospace; color: greenyellow; margin-top: 0%; font-size: 17px;">"Where Developers Hatch and Grow"</h3>
 
     <!--Navigation menu-->
-    <nav>
-      
+    <nav>  
         <a href="index.html"><i class="material-icons" style="font-size:18px">home</i> Home</a>
         <a href="Courses.html">Courses</a>
         <a href="About.html">About</a>
@@ -26,6 +26,15 @@
         <a href="Apply.html">Apply</a>
         <a href="Contact.html">Contact</a>
         
+        <div class="theme-toggle">
+            <input type="checkbox" id="darkModeToggle" />
+            <label for="darkModeToggle" class="toggle-label">
+            <span class="icon sun">🌞</span>
+            <span class="icon moon">🌙</span>
+            <span class="toggle-ball"></span>
+            </label>
+        </div>
+
     </nav>
 
     <br>
